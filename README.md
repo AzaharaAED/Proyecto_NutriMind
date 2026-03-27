@@ -49,6 +49,14 @@ Notebook encargado de **recoger la petición del usuario**.
 - Estructura esa petición en un formato usable por el sistema.
 - Actúa como enlace entre la intención del usuario y el módulo general.
 
+- Inicialmente, este módulo se diseñó para permitir al usuario introducir su petición:
+  - mediante texto
+  - y mediante voz, utilizando Whisper
+
+- Sin embargo, durante el desarrollo se observó que el flujo resultaba algo engorroso para el usuario, ya que implicaba varios pasos y preguntas.
+
+- Por este motivo, se decidió dejar esta funcionalidad **provisionalmente en pausa**, con la intención de retomarla en el futuro e implementarla de forma más sencilla y eficiente.
+
 ---
 
 ### `hogar_ia_colab_corregido.ipynb`
