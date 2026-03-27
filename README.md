@@ -59,7 +59,7 @@ Notebook encargado de **recoger la petición del usuario**.
 
 ---
 
-### `hogar_ia_colab_corregido.ipynb`
+### `interfaz_nutrimind.ipynb`
 Notebook destinado a la **interfaz** del sistema.
 
 - Se centra en la construcción y prueba de la interacción con el usuario.
