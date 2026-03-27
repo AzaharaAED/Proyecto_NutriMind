@@ -1,4 +1,4 @@
-# Proyecto_ecosistema
+# Proyecto NutriMind
 
 Este repositorio reúne los distintos notebooks y módulos que forman parte del sistema **NutriMind**, orientado a interpretar información del hogar y del usuario para generar una respuesta útil y personalizada.
 
