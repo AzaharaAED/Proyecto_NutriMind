@@ -94,3 +94,18 @@ Versión adaptada del módulo general.
 - Contiene la misma lógica base que `Proyecto_modulo_general_gemini_personalizado.ipynb`.
 - Está preparado para funcionar **sin dependencias instaladas mediante `pip`**.
 - Su objetivo es facilitar la ejecución en entornos web o restringidos donde no sea posible instalar paquetes de forma convencional.
+
+---
+
+### Archivos .jpeg
+Hacen referencia a imagenes que hemos utilizado como entradas para el modelo
+
+---
+
+### Archivos de audio
+Utilizados como inputs para el modelo de Whisper. 
+
+---
+
+### `Presentación Nutrimind.pdf`
+Presentación del proyecto.
